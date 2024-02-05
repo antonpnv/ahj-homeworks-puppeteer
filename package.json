@@ -39,9 +39,9 @@
     "webpack-dev-server": "^4.15.1"
   },
   "dependencies": {
-    "browsers": "^0.4.9",
+    "browsers": "^1.0.2",
     "chrome": "^0.1.0",
     "core-js": "3",
-    "puppeteer": "^22.0.0"
+    "puppeteer": "2.1.1"
   }
 }
