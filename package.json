@@ -42,6 +42,6 @@
     "browsers": "^1.0.2",
     "chrome": "^0.1.0",
     "core-js": "3",
-    "puppeteer": "2.1.1"
+    "puppeteer": "^22.0.0"
   }
 }
